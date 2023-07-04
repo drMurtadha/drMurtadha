@@ -3,26 +3,26 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FdrMurtadha&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drMurtadha/master/img/wave.gif" width="30">
+## Hi there! <img src="https://raw.githubusercontent.com/drMurtadha/drMurtadha/master/img/wave.gif" width="30">
 
 I am  __Mohd Murtadha__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
-- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
-  -   [Django](https://github.com/drshahizan/learn-django)
-  -   [Alternative Assessment](https://github.com/drshahizan/SECP3843)
+- [Special Topic in Data Engineering](https://github.com/drMurtadha/special-topic-data-engineering)
+  -   [Django](https://github.com/drMurtadha/learn-django)
+  -   [Alternative Assessment](https://github.com/drMurtadha/SECP3843)
 
-- [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
+- [Software Engineering (WBL)](https://github.com/drMurtadha/software-engineering)
+- [Web Programming - PHP](https://github.com/drMurtadha/learn-php)
 - High Performance Data Processing 
-  -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
-  -   [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
-  -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-  -   [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
-- [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
-- [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
+  -   [Python for beginners](https://github.com/drMurtadha/python-tutorial)
+  -   [Web scraping and Python web framework](https://github.com/drMurtadha/python-web)
+  -   [Exploratory data analysis](https://github.com/drMurtadha/Python_EDA)
+  -   [Big data processing](https://github.com/drMurtadha/Python-big-data)
+  -   [Case Study](https://github.com/drMurtadha/python-tutorial/blob/main/case-study.md)
+- [Programming Technique III: ASP.NET](https://github.com/drMurtadha/learn-aspnet)
+- [Extra-Curricular Experiential Learning](https://github.com/drMurtadha/courses/blob/main/UKQT3001/readme.md)
+- [Value and Identity](https://github.com/drMurtadha/courses/blob/main/ULRS1012/readme.md)
 
 ## 👨‍💻 Anything to do with research
 - [The Daily Life of a PhD Student](https://github.com/drshahizan/phd)
@@ -46,9 +46,9 @@ I am  __Mohd Murtadha__, and I work as a lecturer at [Universiti Teknologi Malay
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drshahizan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drMurtadha&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drMurtadha&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
   
   ![Follower Badge](https://img.shields.io/github/followers/drMurtadha)

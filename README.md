@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Murtadha, a university lecturer 🧑🏻‍🏫 servicing since 2007 🚀</div>  
+### <div align="center">Mohd Murtadha Bin Mohamad | Lecturer, Speaker, Educator </div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/drMurtadha/github-profilinator)  
